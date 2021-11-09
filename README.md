@@ -12,6 +12,9 @@ The owners and the management of Mumbai Indians want to identify the best possib
 - Visualize this in an intuitive Power BI Dashboards
 - Find Similar Batsmen and Bowler
 
+### Flow diagram of the project
+![image](https://i.ibb.co/zs0N8Vx/FLow.png)
+
 ### Tools
 | Tools | Description |
 | ------ | ------ |
