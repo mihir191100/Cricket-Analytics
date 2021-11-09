@@ -25,8 +25,8 @@ The owners and the management of Mumbai Indians want to identify the best possib
 | PowerBI | Used for creating Dashboard |
 
 ### Team
-Team Lead - Ashwini Kumar
-Scrum Master - Aditya Shah
+- Team Lead - Ashwini Kumar
+- Scrum Master - Aditya Shah
 
 Team Members
 - Neel Shah
