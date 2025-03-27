@@ -31,6 +31,7 @@ The owners and the management of Mumbai Indians want to identify the best possib
 Team Members
 - Neel Shah
 - Hardik Pithadiya
+- Mihir Parmar
 - Divyesh Pithadiya
 - Radha Sawant
 
